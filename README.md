@@ -1,7 +1,7 @@
-Headergen
+
 Headergen is a Jupyter Notebook extension designed to help convert undocumented notebooks into well-documented ones by generating and managing headers automatically.
 
-Prerequisites
+##Prerequisites
 Before you begin, make sure you meet the following requirements:
 
 Python 3.x installed on your system.
